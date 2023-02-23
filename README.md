@@ -15,3 +15,5 @@ There are 3 main datasets. https://www.kaggle.com/competitions/bluebook-for-bull
 * Test.csv is the test set, which won't be released until the last week of the competition. It contains data from May 1, 2012 - November 2012. Your score on the test set determines your final rank for the competition.
 # 3. Evaluation
 The evaluation metric for this competition is the RMSLE (root mean squared log error) between the actual and predicted auction prices.
+
+## Check `EDA_Report.html` file for the results and and some basic visuals of Data Analysis at one place.
